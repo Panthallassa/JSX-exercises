@@ -1,0 +1,26 @@
+.tweet {
+	border: 0.7px solid #ddd;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color: aliceblue;
+}
+
+.tweet h3 {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode",
+		"Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.tweet p {
+	margin: 5px 0;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode",
+		"Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.tweet small {
+	font-weight: 900;
+	font-size: 10px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode",
+		"Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	color: #555;
+}

@@ -1,0 +1,44 @@
+/* Updated .person component for better human-centered design */
+.person {
+	border: 2px solid #9cc7ed; /* Reduced border size for a cleaner look */
+	padding: 20px; /* Increased padding for better spacing */
+	margin: 15px auto; /* Centered the content and added more margin */
+	border-radius: 15px; /* Reduced border-radius for a smoother shape */
+	background-color: #f0f4fa; /* Lightened background for better readability */
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	color: #4a4e69; /* Darkened text for better contrast */
+	max-width: 600px; /* Set a max width to avoid overly wide blocks */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Added subtle shadow for depth */
+}
+
+.person h2 {
+	color: #5e6fc1; /* Darkened color for more readable headers */
+	font-size: 1.5em; /* Increased font size for readability */
+	margin-bottom: 10px;
+}
+
+.person p {
+	font-size: 1.1em; /* Increased paragraph font size for better legibility */
+	margin-bottom: 15px; /* Added spacing between paragraphs */
+}
+
+.heading {
+	color: #4a4e69;
+	font-size: 1.8em; /* Larger font size for main heading */
+	text-align: center;
+}
+
+.person ul {
+	list-style-type: disc; /* Changed to disc for a cleaner bullet style */
+	padding-left: 20px; /* Added padding for better alignment */
+}
+
+.person ul li {
+	margin-bottom: 8px; /* Added space between list items */
+}
+
+.person h3 {
+	color: #696f8a; /* Darkened color for the secondary heading */
+	margin-top: 10px;
+	font-size: 1.2em; /* Adjusted font size for better hierarchy */
+}
